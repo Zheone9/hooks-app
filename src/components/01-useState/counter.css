@@ -1,0 +1,18 @@
+body{
+    padding: 70px;
+}
+*{
+    box-sizing: border-box;
+}
+.btn{
+    margin: 10px;
+}
+
+input{
+    width:10%;
+    height: 38px;
+
+}
+.p-factor{
+    color:red;
+}
